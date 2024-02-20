@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anisul Islam</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -12,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/imanisul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/imanisul/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anisul_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anisul_17/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/http://youtube.com/@realityfactor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://youtube.com/@realityfactor/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imanisul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanisul" height="30" width="40" /></a>
+<a href="https://instagram.com/anisul_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anisul_17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@realityfactor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@realityfactor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
